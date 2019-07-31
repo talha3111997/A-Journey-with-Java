@@ -1,0 +1,21 @@
+.body {
+    -fx-background-image: url("/image/BackgroundImage.jpg"); 
+}
+.image{
+   -fx-background-image: url("/image/first-page background.jpg"); 
+   -fx-background-color:  #20120F ; 
+}
+.body2{
+    -fx-text-fill: #FFFFFF ;
+}
+#labels{
+      -fx-text-fill: #FFFFFF ;
+}
+#container{
+ 
+    -fx-text-fill: #FFFFFF ;
+}
+.username{
+    -fx-text-fill: white;
+      -fx-prompt-text-fill: white ;
+}
